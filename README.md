@@ -30,4 +30,4 @@ outlier detection and removal:
 
 
 # Result
-          <<include your Result here>>
+Hence the data was cleaned , outliers were detected and removed.
